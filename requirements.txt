@@ -1,0 +1,4 @@
+pandas
+polars
+plotly
+streamlit
